@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.poc.spring.boot</groupId>
-	<artifactId>pocspringboot</artifactId>
+	<artifactId>poc-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Poc spring boot</name>
+	<name>Poc Spring Boot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
